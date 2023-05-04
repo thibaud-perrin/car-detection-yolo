@@ -1,0 +1,12 @@
+numpy
+jupyterlab
+matplotlib
+imageio
+imageio[ffmpeg]
+scipy
+Pillow
+ipython
+nodejs-bin
+jupyter_contrib_nbextensions
+tensorflow
+pandas
